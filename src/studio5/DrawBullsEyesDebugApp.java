@@ -1,5 +1,7 @@
 package studio5;
 
+import static org.junit.Assert.assertEquals;
+
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
@@ -29,3 +31,6 @@ public class DrawBullsEyesDebugApp {
 		});
 	}
 }
+
+
+
